@@ -1,6 +1,5 @@
 # vulnsearch-cve
 
-![image](./img/vuln-cve.png)
 ![image](./img/cve-vuln.png)
 
 

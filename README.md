@@ -8,7 +8,7 @@ sudo apt-get install jq
 chmod +x vulnsearch-cve.sh
 ./vulnsearch-cve.sh
 ```
-![image](./img/allinonecve.png)
+![image](./img/allinone.png)
 ![image](./img/cve-vuln.png)
 
 # vulnsearch

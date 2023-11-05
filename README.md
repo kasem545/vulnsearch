@@ -2,7 +2,7 @@
 ```
 sudo apt-get install jq
 ```
-## vulnsearch-cve
+# vulnsearch-cve
 # Usage
 ```
 chmod +x vulnsearch-cve.sh

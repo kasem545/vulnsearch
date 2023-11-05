@@ -9,11 +9,16 @@
 
 this tools use shodan to find vulnerabilities of a webserver and it looks for possible POC "Proof of concept"
 
+# Requirements
+```
+sudo apt-get install jq
+```
 
 # Usage
 ```
 echo "example.com" |bash vulnsearch.sh
 ```
+
 ```
 chmod +x vulnsearch.sh
 ./vulnsearch.sh

@@ -2,6 +2,7 @@
 
 ![image](./img/cve-vuln.png)
 
+![image](./img/allinonecve.png)
 
 
 # vulnsearch

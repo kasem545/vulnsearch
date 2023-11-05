@@ -1,9 +1,12 @@
 # vulnsearch-cve
 
-![image](./img/cve-vuln.png)
-
+# Usage
+```
+chmod +x vulnsearch-cve.sh
+./vulnsearch-cve.sh
+```
 ![image](./img/allinonecve.png)
-
+![image](./img/cve-vuln.png)
 
 # vulnsearch
 

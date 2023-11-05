@@ -1,5 +1,8 @@
-# vulnsearch-cve
-
+# Requirements
+```
+sudo apt-get install jq
+```
+## vulnsearch-cve
 # Usage
 ```
 chmod +x vulnsearch-cve.sh
@@ -11,11 +14,6 @@ chmod +x vulnsearch-cve.sh
 # vulnsearch
 
 this tools use shodan to find vulnerabilities of a webserver and it looks for possible POC "Proof of concept"
-
-# Requirements
-```
-sudo apt-get install jq
-```
 
 # Usage
 ```
